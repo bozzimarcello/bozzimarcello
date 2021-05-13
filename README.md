@@ -8,7 +8,6 @@ I'm a teacher. Using game-based learning, game development and innovative teachi
 - teaching
 
 📫 How to reach me ...
-My blog
-http://gamifica.re/
-Twitter
-https://twitter.com/marcellobozzi
+- My blog http://gamifica.re/
+- My CV http://marcellobozzi.it/
+- Twitter https://twitter.com/marcellobozzi
