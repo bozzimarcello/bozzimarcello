@@ -2,11 +2,11 @@
 I'm a teacher. Using game-based learning, game development and innovative teaching in my profession helps me invest in my students to make them better citizens.
 
 👀 I’m interested in ...
+- Cyber Security
 - Unity 3D
 - C#
 - .NET
 - teaching
-- Cyber Security
 
 📫 How to reach me ...
 - My blog http://gamifica.re/
