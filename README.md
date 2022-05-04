@@ -9,5 +9,5 @@ I am a computer science teacher in a technical school.
 - Unity 3D
 
 📫 How to reach me ...
-- My CV http://marcellobozzi.it/
+- My personal site https://marcellobozzi.it/
 - Twitter https://twitter.com/marcellobozzi
