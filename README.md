@@ -1,11 +1,10 @@
 👋 Hi, I’m @bozzimarcello
-I am a computer science teacher in a technical school.
+I am a computer science teacher in a technical high school, I also train teachers.
 
 👀 I’m interested in ...
 - Cybersecurity
-- C#
-- .NET
-- teaching
+- Teaching
+- Microsoft C# and .NET Core
 - Unity 3D
 
 📫 How to reach me ...
