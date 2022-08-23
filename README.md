@@ -4,7 +4,7 @@ I am a computer science teacher in a technical high school, I also train teacher
 👀 I’m interested in ...
 - Cybersecurity
 - Teaching
-- Microsoft C# and .NET Core
+- Microsoft C#, dotNET Core, Entity Framework, Razor Pages, Blazor and MAUI
 - Unity 3D
 
 📫 How to reach me ...
